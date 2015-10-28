@@ -6,7 +6,7 @@ Riley McCloskey, Michael Tuttle, Will Smith
 - Google Data Explorer
 - Gov't Open Data
 - Quandl
-- [Awesome Public Datasets](https://github.com/MIS407/awesome-public-datasets)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Project Requirements
 

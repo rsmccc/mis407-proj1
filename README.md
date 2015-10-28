@@ -23,3 +23,7 @@ Riley McCloskey, Michael Tuttle, Will Smith
 1.	Each of the above tasks have one or more outcomes. Produce a report for each.
 2.	Create GitHub repository for your project. Name it using the last initials of members.
 3.	Maintain your code (scripts) and documentation in the repos
+
+### Resources:
+For a guide on structuring python programming see http://docs.python-guide.org/en/latest/writing/structure/
+For a good tutorial on Sqlalchemy see http://www.pysnap.com/sqlalchemy-essential-tutorial-and-techniques/

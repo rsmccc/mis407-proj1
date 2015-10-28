@@ -18,6 +18,7 @@ Riley McCloskey, Michael Tuttle, Will Smith
 5.	Read the data source(s) into appropriate DATAFRAME using pandas
 6.	Determine which columns from the source(s) would be used.
 7.	Develop an outline of tasks you will need to do to answer the question.
+
 ### Deliverable:
 1.	Each of the above tasks have one or more outcomes. Produce a report for each.
 2.	Create GitHub repository for your project. Name it using the last initials of members.

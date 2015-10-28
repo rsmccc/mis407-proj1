@@ -25,5 +25,7 @@ Riley McCloskey, Michael Tuttle, Will Smith
 3.	Maintain your code (scripts) and documentation in the repos
 
 ### Resources:
-For a guide on structuring python programming see http://docs.python-guide.org/en/latest/writing/structure/
-For a good tutorial on Sqlalchemy see http://www.pysnap.com/sqlalchemy-essential-tutorial-and-techniques/
+- For a guide on structuring python programming see http://docs.python-guide.org/en/latest/writing/structure/
+- For a good tutorial on Sqlalchemy see http://www.pysnap.com/sqlalchemy-essential-tutorial-and-techniques/
+
+

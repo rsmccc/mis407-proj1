@@ -11,7 +11,7 @@ Riley McCloskey, Michael Tuttle, Will Smith, Miranda Fisher
   - [2016 Candidate Summary](http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016)
   - [Campaign Finance Disclosure Portal](http://www.fec.gov/pindex.shtml)
   - [Beta FEC Website](https://beta.fec.gov/data/) 
-  - [OpenFEC API Documentation](https://api.open.fec.gov/developers)
+  - **[OpenFEC API Documentation](https://api.open.fec.gov/developers)**
   - [Presidential Campaign Finance Map](http://www.fec.gov/disclosurep/pnational.do?cf=phome) - *could use as guide in our analysis*
   - [API.DATA.GOV Documentation](https://api.data.gov/docs/)
 

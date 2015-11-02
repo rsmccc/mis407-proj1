@@ -7,6 +7,9 @@ Riley McCloskey, Michael Tuttle, Will Smith, Miranda Fisher
 - Gov't Open Data
 - Quandl
 - [Awesome Public Datasets](https://github.com/MIS407/awesome-public-datasets)
+- [Federal Election Commission](http://www.fec.gov/)
+  - [2016 Candidate Summary](http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016)
+  - [Campaign Finance Disclosure Portal](http://www.fec.gov/pindex.shtml)
 
 ## Project Requirements
 

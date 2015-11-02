@@ -6,13 +6,14 @@ Riley McCloskey, Michael Tuttle, Will Smith, Miranda Fisher
 - Google Data Explorer
 - Gov't Open Data
 - Quandl
-- [Awesome Public Datasets](https://github.com/MIS407/awesome-public-datasets)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Federal Election Commission](http://www.fec.gov/)
   - [2016 Candidate Summary](http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016)
   - [Campaign Finance Disclosure Portal](http://www.fec.gov/pindex.shtml)
-  - **[Beta FEC Website](https://beta.fec.gov/data/)** *(better than above sites)*
+  - [Beta FEC Website](https://beta.fec.gov/data/) 
   - [OpenFEC API Documentation](https://api.open.fec.gov/developers)
   - [Presidential Campaign Finance Map](http://www.fec.gov/disclosurep/pnational.do?cf=phome) - *could use as guide in our analysis*
+  - [API.DATA.GOV Documentation](https://api.data.gov/docs/)
 
 ## Project Requirements
 

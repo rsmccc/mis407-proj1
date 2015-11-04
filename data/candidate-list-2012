@@ -1,0 +1,22 @@
+cand_id	cand_nm	cand_nm_title	cand_pty_aff	contb_receipt_amt	ind_contrib	pac_contrib	party_contrib	cand_contrib	disbursements	coh_cop	other_contrib	debt	date_through	election_yr
+P00003392	Clinton, Hillary Rodham	Clinton, Hillary Rodham	Democratic Party	$76,051,160 	$75,131,206 	$635,460 	$0 	$278,821 	$43,055,988 	$32,995,172 	$5,673 	$647,245 	9/30/2015	2016
+P60007168	Sanders, Bernard	Sanders, Bernard	Democratic Party	$41,179,952 	$39,671,766 	$200 	$0 	$0 	$14,060,230 	$27,119,722 	$1,507,986 	$0 	9/30/2015	2016
+P60005915	Carson, Benjamin S.	Carson, Benjamin S.	Republican Party	$31,274,992 	$31,247,904 	$2,088 	$0 	$25,000 	$20,002,458 	$11,272,534 	$0 	$25,000 	9/30/2015	2016
+P60006111	Cruz, Rafael Edward 'Ted'	Cruz, Rafael Edward 'Ted'	Republican Party	$26,437,929 	$26,139,614 	$48,302 	$0 	$0 	$12,659,025 	$13,778,904 	$250,013 	$0 	9/30/2015	2016
+P60008059	Bush, Jeb	Bush, Jeb	Republican Party	$24,765,380 	$24,244,543 	$132,117 	$0 	$388,720 	$14,494,251 	$10,271,129 	$0 	$404,737 	9/30/2015	2016
+P60006723	Rubio, Marco	Rubio, Marco	Republican Party	$13,597,764 	$13,557,574 	($138,340)	$102 	$0 	$6,687,639 	$10,975,989 	$178,428 	$75,902 	9/30/2015	2016
+P40003576	Paul, Rand	Paul, Rand	Republican Party	$9,348,900 	$7,677,329 	$23,582 	$0 	$0 	$7,221,129 	$2,124,156 	$1,647,989 	$365,359 	9/30/2015	2016
+P60007242	Fiorina, Carly	Fiorina, Carly	Republican Party	$8,447,720 	$8,439,064 	$8,650 	$0 	$0 	$2,898,526 	$5,549,194 	$6 	$0 	9/30/2015	2016
+P60006046	Walker, Scott	Walker, Scott	Republican Party	$7,356,771 	$7,338,291 	$18,400 	$0 	$0 	$6,371,557 	$985,213 	$80 	$161,133 	9/30/2015	2016
+P80001571	Trump, Donald J.	Trump, Donald J.	Republican Party	$5,735,514 	$3,825,880 	$0 	$58 	$1,909,577 	$5,440,691 	$254,773 	($1)	$1,804,747 	9/30/2015	2016
+P60007697	Graham, Lindsey O.	Graham, Lindsey O.	Republican Party	$4,745,811 	$2,967,250 	$53,550 	$0 	$0 	$3,094,501 	$1,651,309 	$1,725,011 	$0 	9/30/2015	2016
+P60003670	Kasich, John R.	Kasich, John R.	Republican Party	$4,374,838 	$4,235,566 	$139,273 	$0 	$0 	$1,732,889 	$2,641,950 	($1)	$0 	9/30/2015	2016
+P60008521	Christie, Christopher J.	Christie, Christopher J.	Republican Party	$4,188,864 	$4,126,264 	$62,600 	$0 	$0 	$2,802,417 	$1,386,447 	$0 	$246,347 	9/30/2015	2016
+P80003478	Huckabee, Mike	Huckabee, Mike	Republican Party	$3,234,967 	$3,209,467 	$25,500 	$0 	$0 	$2,473,556 	$761,411 	$0 	$133,104 	9/30/2015	2016
+P60007671	O'Malley, Martin Joseph	O'Malley, Martin Joseph	Democratic Party	$3,203,744 	$3,153,572 	$50,172 	$0 	$0 	$2,397,757 	$805,987 	$0 	$20,608 	9/30/2015	2016
+P20003281	Perry, James R. (Rick)	Perry, James R. (Rick)	Republican Party	$1,266,811 	$1,259,770 	$7,040 	$0 	$0 	$1,564,346 	$44,554 	$1 	$0 	9/30/2015	2016
+P60008398	Jindal, Bobby	Jindal, Bobby	Republican Party	$1,158,092 	$1,148,092 	$10,000 	$0 	$0 	$897,153 	$260,939 	$0 	$0 	9/30/2015	2016
+P20002721	Santorum, Richard J.	Santorum, Richard J.	Republican Party	$1,013,315 	$992,221 	$0 	$0 	$0 	$779,145 	$226,526 	$21,094 	$450,408 	9/30/2015	2016
+P60009685	Lessig, Lawrence	Lessig, Lawrence	Democratic Party	$1,012,067 	$1,011,447 	$0 	$0 	$620 	$438,131 	$573,936 	$0 	$0 	9/30/2015	2016
+P60008885	Webb, James Henry Jr.	Webb, James Henry Jr.	Democratic Party	$696,972 	$691,972 	$5,000 	$0 	$0 	$380,207 	$316,765 	$0 	$0 	9/30/2015	2016
+P60007572	Pataki, George E.	Pataki, George E.	Republican Party	$409,309 	$389,309 	$0 	$0 	$20,000 	$395,738 	$13,571 	$0 	$20,000 	9/30/2015	2016

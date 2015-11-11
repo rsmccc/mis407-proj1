@@ -11,7 +11,7 @@ import numpy as np
 
 #campaign = pd.read_csv('../data/2009_Campaign_Contributions.csv')
 candidate = pd.read_csv('../data/2012_Candidate_Summary.csv')
-#committee = pd.read_csv('../data/2012_Committee_Summary.csv')
+committee = pd.read_csv('../data/2012_Committee_Summary.csv')
 
 sharedCols = ['tot_rec', 'tot_dis', 'cas_on_han_clo_of_per']
 
@@ -21,9 +21,16 @@ commCols = ['com_nam']
 # how to combine arrays?
 
 cd = candidate[candCols + sharedCols]
-
+cm = committee[commCols + sharedCols]
 
 print ('\nColumn Names')
 for col in cd.columns:
   print (col)
+
+print ('\nColumn Names')
+for col in cm.columns:
+  print (col)
+
+
+
 

@@ -6,8 +6,15 @@ Created on Wed Nov 11 09:48:07 2015
 """
 import pandas as pd
 
-fn1 = 'C:\\Users\\mfisher\\Desktop\\candidate-list-2016.xlsx'
-fn2 = 'C:\\Users\\mfisher\\Desktop\\candidate-list-2012.xlsx'
+# Will have to change path if Windows vs Unix
+
+## Windows
+#fn1 = '\\..\\data\\candidate-list-2016.xlsx'
+#fn2 = '\\..\\data\\candidate-list-2012.xlsx'
+
+## Unix
+fn1 = '../data/candidate-list-2016.xlsx'
+fn2 = '../data/candidate-list-2012.xlsx'
 
 df1 = pd.read_excel(fn1, sheetname='candidate-list-2016', index_col='cand_nm')
 df2 = pd.read_excel(fn2, sheetname='candidate-list-2012', index_col='cand_nm')

@@ -23,13 +23,13 @@ commCols = ['com_nam']
 cd = candidate[candCols + sharedCols]
 cm = committee[commCols + sharedCols]
 
-print ('\nColumn Names')
+print ('\nCandidate Summary')
 for col in cd.columns:
-  print (col)
+  print ('\t' + col)
 
-print ('\nColumn Names')
+print ('\nCommittee Summary')
 for col in cm.columns:
-  print (col)
+  print ('\t' + col)
 
 
 
